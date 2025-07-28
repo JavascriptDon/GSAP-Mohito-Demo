@@ -30,6 +30,8 @@ npm run dev
 
 ## Preview
 
+https://github.com/user-attachments/assets/10700b76-ddda-4769-9757-2e3e786dcf6d
+
 
 ## 📚 Source
 
